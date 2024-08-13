@@ -1,4 +1,4 @@
-#S10241971K Huang Wen P14
+#S10242282D Sherwyn
 import random
 
 # Game variables
